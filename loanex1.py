@@ -1,3 +1,6 @@
+#########################
+#THIS IS A TEST
+
 #Program to print out payment schedule
 #for a loan with amount, interest, and years as inputted by the user
 #prints out the month, the monthly payment, and the remaining amount
